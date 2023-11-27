@@ -34,3 +34,10 @@ Fruits = {
 "Soul Fruit",
 "Leopard Fruit"
 }
+Valuable = {"Kilo Fruit","Spin Fruit","Spring Fruit","Bomb Fruit","Smoke Fruit","Spike Fruit","Flame Fruit","Bird: Falcon Fruit","Ice Fruit","Sand Fruit","Dark Fruit","Diamond Fruit","Light Fruit","Rubber Fruit","Barrier Fruit","Magna Fruit","Quake Fruit","String Fruit","Portal Fruit","Blizzard Fruit","Revive Fruit","Chop Fruit, Dough Fruit","Shadow Fruit","Venom Fruit","Control Fruit","Dragon Fruit","Soul Fruit","Leopard Fruit"} ------ it will stop the script if you got this fruit
+Webhook = "https://discordapp.com/api/webhooks/1177937465558970380/wKtrKRbUQE5r4ezzt3HZTfxIzI1xqQdPDJWrdNebNGn2Cjv7nbZaWt1Fe-DoY3esGULZ" --------------------------------Optional
+Store = true  --------------------------------Auto Store after it got the fruit
+Safeplace = false ----------------------------- Safeplace 
+Repeat = true --------------------------------- Repeat continues hopping
+-----------------------------------------------------------------------
+loadstring(game:HttpGet"https://gist.githubusercontent.com/NotHubris/4e6fdc88d84c30afa9b28c590f273bbf/raw")()
